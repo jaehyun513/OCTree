@@ -1,2 +1,2 @@
-# OCTree
-Official implementation of Optimized Feature Generation for Tabular Data via LLMs with Decision Tree Reasoning (NeurIPS 2024).
+# Optimized Feature Generation for Tabular Data via LLMs with Decision Tree Reasoning
+Official implementation of ["Optimized Feature Generation for Tabular Data via LLMs with Decision Tree Reasoning"](https://arxiv.org/abs/2406.08527) by [Jaehyun Nam*](https://jaehyun513.github.io/), [Woomin Song](https://woominsong.github.io/), [Seong Hyeon Park](https://shpark.org/), [Jihoon Tack](https://jihoontack.github.io/), [Sukmin Yun](https://sites.google.com/view/sukmin-yun), [Jaehyung Kim](https://sites.google.com/view/jaehyungkim), [Kyu Hwan Oh](https://www.linkedin.com/in/oh-kyu-hwan-8a16b9282/), [Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html).
